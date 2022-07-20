@@ -40,7 +40,7 @@
 
 
 ## GIT STATS
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Kisalaykisu&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AnjaliMishra&theme=radical" />
 
 
 ![Minion](https://octodex.github.com/images/minion.png)
